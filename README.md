@@ -2,9 +2,9 @@
 
 
 
-# Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
-I am Hasala Heiyanthuduwa, and I am a Front End Web Developer and Graphic Designer. 
+I am Hasala Heiyanthuduwa, and I am a Front End Web Developer and Graphic Designer. 🇱🇰
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Garuda_Linux-informational?style=flat&logo=linux&logoColor=white&color=8d81c2)
@@ -21,7 +21,6 @@ I am Hasala Heiyanthuduwa, and I am a Front End Web Developer and Graphic Design
 
 [![Hasala](https://github-readme-stats.vercel.app/api?username=hasala2002&show_icons=true&theme=tokyonight)](https://github.com/hasala2002)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hasala2002&repo=untitledlms&title_color=3174e7&text_color=37bc9c&icon_color=be90f2&bg_color=1d1f21)](https://github.com/hasala2002/untitledlms)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hasala2002&repo=chronos&title_color=3174e7&text_color=37bc9c&icon_color=be90f2&bg_color=1d1f21)](https://github.com/hasala2002/chronos)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasala2002&title_color=3174e7&text_color=37bc9c&show_icons=true&icon_color=be90f2&bg_color=1d1f21)](https://github.com/hasala2002)   
@@ -36,6 +35,6 @@ I am Hasala Heiyanthuduwa, and I am a Front End Web Developer and Graphic Design
 
 **HackerRank Certifications**
 
--[HackerRank  Javascript (Basic)](https://www.hackerrank.com/certificates/0bf7d2808afc)
--[HackerRank  Problem Solving (Basic)](https://www.hackerrank.com/certificates/ca4d3cd69a09)
+- [HackerRank  Javascript (Basic)](https://www.hackerrank.com/certificates/0bf7d2808afc)
+- [HackerRank  Problem Solving (Basic)](https://www.hackerrank.com/certificates/ca4d3cd69a09)
 
