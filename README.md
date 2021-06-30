@@ -37,4 +37,6 @@ I am Hasala Heiyanthuduwa, and I am a Front End Web Developer and Graphic Design
 
 - [HackerRank  Javascript (Basic)](https://www.hackerrank.com/certificates/0bf7d2808afc)
 - [HackerRank  Problem Solving (Basic)](https://www.hackerrank.com/certificates/ca4d3cd69a09)
+- [HackerRank  React (Basic)](https://www.hackerrank.com/certificates/0541973b9fd7)
+- [HackerRank  CSS](https://www.hackerrank.com/certificates/3bb3af1812a6)
 
