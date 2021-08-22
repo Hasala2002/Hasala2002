@@ -23,7 +23,7 @@ I am Hasala Heiyanthuduwa, and I am a Front End Web Developer and Graphic Design
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hasala2002&repo=chronos&title_color=3174e7&text_color=37bc9c&icon_color=be90f2&bg_color=1d1f21)](https://github.com/hasala2002/chronos)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasala2002&title_color=3174e7&text_color=37bc9c&show_icons=true&icon_color=be90f2&bg_color=1d1f21)](https://github.com/hasala2002)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasala2002&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
 
 ##  📜  Badges and Certifications
 **HackerRank Badges**
