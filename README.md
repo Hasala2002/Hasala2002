@@ -7,7 +7,7 @@
 I am Hasala Heiyanthuduwa, and I am a Front End Web Developer and Graphic Designer. 🇱🇰
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Garuda_Linux-informational?style=flat&logo=linux&logoColor=white&color=8d81c2)
+![](https://img.shields.io/badge/OS-Windows_10-informational?style=flat&logo=windows&logoColor=white&color=8d81c2)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007acc)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=356a97)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=e9d44d)
