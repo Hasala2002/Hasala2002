@@ -6,6 +6,8 @@
 
 I am Hasala Heiyanthuduwa, and I am a Front End Web Developer and Graphic Designer. 🇱🇰
 
+[![@hasala2002's Holopin board](https://holopin.io/api/user/board?user=hasala2002)](https://holopin.io/@hasala2002)
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows_10-informational?style=flat&logo=windows&logoColor=white&color=8d81c2)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007acc)
