@@ -23,6 +23,8 @@ I am Hasala Heiyanthuduwa, and I am a Front End Web Developer and Graphic Design
 
 [![Hasala](https://github-readme-stats.vercel.app/api?username=hasala2002&show_icons=true&theme=tokyonight)](https://github.com/hasala2002)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hasala2002&repo=arke&title_color=3174e7&text_color=37bc9c&icon_color=be90f2&bg_color=1d1f21)](https://github.com/Hasala2002/arke)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hasala2002&repo=chronos&title_color=3174e7&text_color=37bc9c&icon_color=be90f2&bg_color=1d1f21)](https://github.com/hasala2002/chronos)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hasala2002&repo=create-react-parcel&title_color=3174e7&text_color=37bc9c&icon_color=be90f2&bg_color=1d1f21)](https://github.com/Hasala2002/create-react-parcel)
